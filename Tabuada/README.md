@@ -1,0 +1,1 @@
+Descrição: Peça um número ao usuário e exiba a tabuada de 1 a 10 usando for.

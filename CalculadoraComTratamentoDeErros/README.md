@@ -1,0 +1,1 @@
+Crie uma calculadora que faz as 4 operações básicas e trata divisão por zero com try/catch.

@@ -1,0 +1,1 @@
+O programa deve ler 10 números do usuário e contar quantos são positivos, negativos ou zero.

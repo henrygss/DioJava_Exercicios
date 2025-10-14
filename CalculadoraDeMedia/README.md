@@ -1,0 +1,1 @@
+Descrição: Solicite 3 notas ao usuário, calcule a média e informe se o aluno está "Aprovado", "Recuperação" ou "Reprovado".
